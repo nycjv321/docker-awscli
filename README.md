@@ -1,1 +1,1 @@
-# docker-awscli
+# (yet another) dockerized awscli
